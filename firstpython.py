@@ -1,1 +1,3 @@
-# pyhton test
+# python test
+
+print("Hello world")
